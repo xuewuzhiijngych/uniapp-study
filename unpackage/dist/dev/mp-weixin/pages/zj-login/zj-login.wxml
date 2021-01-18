@@ -1,0 +1,1 @@
+<view><button type="primary" data-event-opts="{{[['tap',[['getUser',['$event']]]]]}}" bindtap="__e">字节跳动授权</button><button type="warn" data-event-opts="{{[['tap',[['loginOut',['$event']]]]]}}" bindtap="__e">退出登录</button></view>

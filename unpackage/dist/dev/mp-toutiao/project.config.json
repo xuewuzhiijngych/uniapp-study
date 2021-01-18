@@ -1,0 +1,21 @@
+{
+  "setting": {
+    "urlCheck": false,
+    "postcss": false
+  },
+  "appid": "tt6ecb1876f1f06ef1",
+  "projectname": "demo",
+  "condition": {
+    "miniprogram": {
+      "current": 0,
+      "list": [
+        {
+          "name": "",
+          "path": "",
+          "query": "",
+          "id": 0
+        }
+      ]
+    }
+  }
+}

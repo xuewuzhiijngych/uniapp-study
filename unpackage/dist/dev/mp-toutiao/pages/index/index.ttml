@@ -1,0 +1,1 @@
+<view class="content"><view class="info"><image src="{{avator}}" mode></image></view><view class="info"><text>{{''+nickname+''}}</text></view><view class="info"><button type="default" data-event-opts="{{[['tap',[['lpost',['$event']]]]]}}" bindtap="__e">POst</button></view></view>

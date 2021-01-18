@@ -1,0 +1,6 @@
+
+.content {}
+.content button {
+	margin: 20px;
+}
+
